@@ -32,5 +32,11 @@ Notes & Steps - see screenshots, snippets, resources & more
   
 https://kim-rosaly.notion.site/art-gallery-human-manual-2769abdeb6d64410a557d38b19f1b368
 
+[FIGMA](https://www.figma.com/)
+
+Brainstorming for how it works & looks
+
+https://www.figma.com/file/HajsFOAXtZwe5aLvNmsYsw/react-a-g?node-id=0%3A1
+
 = - = - = - = - = - = - = - = - = - = - ===-
 
