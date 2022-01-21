@@ -1,10 +1,10 @@
 = - = - = - = - = - = - = - = - = - = - ===-
 
-### A r t   G a l l e r y
+## A r t   G a l l e r y
 
 = - = - = - = - = - = - = - = - = - = - ===-
 
-Frontend
+## Frontend
 
 React | JavaScript 
 
@@ -12,7 +12,7 @@ https://github.com/VQuine/flatiron-phase-5-project-frontend-
 
 = - = - = - = - = - = - = - = - = - = - ===-
 
-Backend
+## Backend
 
 Rails | Ruby 
 
@@ -20,10 +20,7 @@ https://github.com/VQuine/flatiron-phase-5-project-backend
 
 = - = - = - = - = - = - = - = - = - = - ===-
 
-
-= - = - = - = - = - = - = - = - = - = - ===-
-
-S u p p l e m e n t s
+## S u p p l e m e n t s
 
 [NOTION](https://www.notion.so/)
     
