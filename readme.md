@@ -12,7 +12,7 @@
 
 React | JavaScript 
 
-https://github.com/VQuine/flatiron-phase-5-project-frontend-
+https://github.com/VQuine/flatiron-phase-5-project-frontend
 
 ---
 
