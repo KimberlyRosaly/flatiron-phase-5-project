@@ -6,7 +6,8 @@
 = - = - = - = - = - = - = - = - = - = - = = = - . . .
 <!--- heading made @ : https://texteditor.com/multiline-text-art/ --->
 
-<img src="https://www.dropbox.com/s/t5kdpor371ugflj/art%20gallery%20demo.gif">Art Gallery Demo</a>
+![art gallery demo](https://user-images.githubusercontent.com/40582813/156870069-4222e509-237d-44f0-b166-588d47458a89.gif)
+
 
 <samp>
     
