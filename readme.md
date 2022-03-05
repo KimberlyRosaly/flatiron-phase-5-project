@@ -6,6 +6,8 @@
 = - = - = - = - = - = - = - = - = - = - = = = - . . .
 <!--- heading made @ : https://texteditor.com/multiline-text-art/ --->
 
+![Art Gallery Demo](https://www.dropbox.com/s/t5kdpor371ugflj/art%20gallery%20demo.gif?dl=0)
+
 <samp>
     
 ## F r o n t e n d
